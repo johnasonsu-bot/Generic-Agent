@@ -3,3 +3,5 @@ node_modules/
 .DS_Store
 docs/.vitepress/cache/
 *.bak_*
+__pycache__/
+*.pyc
